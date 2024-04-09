@@ -500,6 +500,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [🔥🔥🔥] [Prompt Engineering Guide](https://www.promptingguide.ai/): a project by DAIR.AI that intends to educate researchers and practitioners about prompt engineering
 * [the Book](https://fedhoneypot.notion.site/25fdbdb69e9e44c6877d79e18336fe05?v=1d2bf4143680451986fd2836a04afbf4): collection of prompts and hints of prompt engineering
 * [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Guide and resources for prompt engineering
+* [Prompt Engineering Jobs] (https://aijobs.ai/) Curated list of prompt engineering and AI jobs
 
 #### Prompt Optimizers
 
